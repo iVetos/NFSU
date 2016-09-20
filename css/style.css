@@ -1,0 +1,278 @@
+@font-face {
+    font-family: Roboto Light;
+    src: local("Roboto Light"),
+    url(/fonts/Roboto_Light.ttf);
+}
+
+* {
+    font-family: "Roboto Light", sans-serif;
+    font-size: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    position: absolute;
+    top: -16px;
+    z-index: 999;
+}
+
+#navbar-brand-text {
+    color: #ffffff;
+    padding-top: 19px;
+}
+
+#navbar-brand-text2 {
+    color: #ffffff;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-left: 180px;
+}
+
+.navbar {
+    background: #01668f;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0!important;
+}
+
+.navbar li a {
+    color: #ffffff!important;
+    font-size: 16px;
+    padding: 25px;
+}
+
+.navbar li a:hover, .navbar li a:active, .navbar li a:focus, .navbar li a.active {
+    background: #ffffff!important;
+    color: #01668f!important;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background: #ffffff!important;
+}
+
+.dropdown-menu {
+    background: #01668f!important;
+}
+
+.dropdown-menu li a {
+    padding: 25px!important;
+}
+
+#sportsman {
+    bottom: 0;
+    position: absolute;
+    left: 22%;
+}
+
+#sportsman-image {
+    height: 100%;
+}
+
+#sportsman-text {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+    left: 390px;
+    min-width: 470px;
+    padding: 15px;
+    position: absolute;
+    top: 200px;
+}
+
+#sportsman-text h1 {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+#about {
+    background: #f8f8f8;
+    padding: 30px 0;
+}
+
+#about img {
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 15px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#about h1 {
+    color: #01668f;
+    font-size: 36px;
+    margin: 0;
+    padding: 0 0 20px 0;
+    text-align: center;
+}
+
+#about p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+#about p a {
+    color: #e70031;
+}
+
+/* News */
+#news {
+    padding: 30px 0;
+}
+
+#news a, #news p a {
+    color: #e70031;
+}
+
+#news h2 {
+    color: #01668f;
+    font-size: 36px;
+    margin: 0;
+    padding: 0 0 20px 0;
+    text-align: center;
+}
+
+.news-title {
+    display: block;
+    margin-bottom: 15px;
+}
+
+#news img {
+
+}
+
+#news .glyphicon {
+    font-size: 14px;
+}
+
+.article-btn {
+    background-color: #ffffff;
+    border: 1px solid #01668f;
+    color: #01668f!important;
+}
+
+.article-btn:hover {
+    background-color: #01668f;
+    border: 1px solid #01668f;
+    color: #ffffff!important;
+}
+
+.one-article img {
+    float: left;
+    margin-right: 10px;
+}
+
+#trainers {
+    background: #f8f8f8;
+    padding: 40px 0 0 0;
+}
+
+#trainers h3 {
+    color: #01668f;
+    font-size: 36px;
+    margin: 0;
+    padding: 0 0 20px 0;
+    text-align: center;
+}
+
+#footer {
+    background: #01668f;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
+
+#footer a {
+    color: #e70031;
+}
+
+/* Content */
+.content {
+    margin-top: 28px;
+    min-height: 450px;
+}
+
+.content h1 {
+    color: #01668f;
+    font-size: 36px;
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#addr {
+    margin-left: 170px;
+}
+
+#map {
+    height: 600px;
+    margin-bottom: 20px;
+}
+
+.map-object {
+    min-width: 250px;
+}
+
+.map-object h1 {
+    font-size: 24px!important;
+    margin: 0 0 10px 0!important;
+    padding: 0!important;
+}
+
+.map-object p:last-child {
+    margin-bottom: 0!important;
+}
+
+.map-object img {
+    float: left;
+    margin-right: 10px;
+    width: 100px;
+}
+
+.none {
+    display: none;
+}
+
+.one-object img {
+    float: left;
+    margin-right: 10px;
+}
+
+#map2 {
+    height: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    #menu {
+        padding-top: 40px;
+        margin: 0!important;
+        width: 100%;
+    }
+}
+
+@media (max-width: 1200px) {
+    #sportsman {
+        left: 10%;
+    }
+
+    #sportsman-image img {
+        height: 450px;
+    }
+
+    #sportsman-text {
+        left: 300px;
+        min-width: 410px!important;
+        top: 110px;
+    }
+
+    #sportsman-text h1 {
+        font-size: 20px;
+    }
+
+    #sportsman-text p {
+        font-size: 14px;
+    }
+}

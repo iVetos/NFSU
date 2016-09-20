@@ -1,0 +1,2 @@
+[101] - Логин или пароль введены неверно [admin & admin13] - 127.0.0.1 - [17/Aug/2016 19:51:03 +03:00] E:\OpenServer\domains\sambo.up\www\admin\includes\enter.php - Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+[100] - Успешный вход [Admin] - 127.0.0.1 - [17/Aug/2016 19:51:23 +03:00] E:\OpenServer\domains\sambo.up\www\admin\includes\enter.php - Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36

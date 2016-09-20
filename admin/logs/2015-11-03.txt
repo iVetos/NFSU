@@ -1,0 +1,1 @@
+[100] - Успешный вход [jQuery] - 127.0.0.1 - [03/Nov/2015 22:45:45 +03:00] F:\OpenServer\domains\upcms.up\www\admin\includes\enter.php - Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36

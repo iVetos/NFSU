@@ -1,0 +1,3 @@
+[100] - Завершение сеанса [Виталий] - 127.0.0.1 - [10/Dec/2014 10:58:49 +02:00] Y:\home\upcms.up\www\admin\includes\exit.php - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+[100] - Успешный вход [Виталий] - 127.0.0.1 - [10/Dec/2014 11:00:09 +02:00] Y:\home\upcms.up\www\admin\includes\enter.php - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.17
+[100] - Успешный вход [Виталий] - 127.0.0.1 - [10/Dec/2014 11:37:20 +02:00] Y:\home\upcms.up\www\admin\includes\enter.php - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36

@@ -1,0 +1,112 @@
+.formly td {
+	text-align: left;
+    vertical-align: middle;
+}
+
+.formly td .cat_del_img {
+    margin-top:-5px;
+    margin-bottom: 7px;
+}
+
+.formly td .cat_del_img_but {
+    margin-left: 15px;
+}
+
+.formlyWrapper-Up {
+	color:#444;
+}
+
+.formlyWrapper-Up input[type="text"], .formlyWrapper-Up input[type="password"], .formlyWrapper-Up select, .formlyWrapper-Up textarea {
+	background-color: #fffcf4;
+	color: #444;
+	border: 2px solid #444;
+	padding: 5px 10px;
+	box-shadow: 0px 1px 0px #fff;
+    border-radius: 2px;
+    margin: 5px 0px;
+}
+
+.formlyWrapper-Up input[type="submit"], .formlyWrapper-Up input[type="reset"], .formlyWrapper-Up input[type="button"] {
+    -webkit-box-align: center;
+    background-color: #64b600;
+    background-repeat: repeat-x;
+    border: medium none currentColor;
+    border-radius: 2px;
+    color: #fff!important;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Verdana", "Arial", "Helvetica", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 0px 10px 0;
+    min-width: 80px;
+    max-width: 180px;
+    padding: 7px 10px;
+    text-align: center;
+    text-decoration: none!important;
+    float: left;
+ }
+ 
+.formlyWrapper-Up input[type="submit"]:hover, .formlyWrapper-Up input[type="submit"]:active { 
+    background-color: #449802;
+    color: #00cc00;
+    text-decoration: none;
+}
+
+.formlyWrapper-Up input[type="reset"]:hover, .formlyWrapper-Up input[type="reset"]:active, .formlyWrapper-Up input[type="button"]:hover, .formlyWrapper-Up input[type="button"]:active {
+    background-color: #449802;
+    color: #00cc00;
+    text-decoration: none;
+}
+
+.formlyWrapper-Up input[type="submit"]:active, .formlyWrapper-Up input[type="reset"]:active, .formlyWrapper-Up input[type="button"]:active {
+	background-color: #449802;
+    color: #00cc00;
+    text-decoration: none;
+}
+
+.formlyWrapper-Up h1, .formlyWrapper-Up h2 { 
+    padding:0;
+    margin:3px 0;
+}
+
+.formlyWrapper-Up h1 {
+	font-size: 16px;
+	color: #d53c35;
+}
+
+.formlyWrapper-Up h2 {
+	font-size:13px;
+	color:#666;
+}
+
+.formlyWrapper-Up hr {
+	color:#eee;
+	border:1px solid #eee;
+}
+
+.formlyPrefix {
+	position: absolute;
+	float: left;
+	z-index: 9999;
+	display: none;
+}
+
+.formlyInvalid, .formlyRequired {
+	border-radius: 2px;
+	padding: 7px 10px;
+	font-weight: bold;
+	font-size: 14px;
+	display: none;
+	margin: 5px 0;
+}
+
+.formlyInvalid {
+	background-color: #ef7971;
+	color: #fff;
+}
+
+.formlyRequired {
+	background-color: #f5972f;
+	color: #fff;
+}

@@ -1,0 +1,26 @@
+[100] - 127.0.0.1 - [08/Apr/2014 10:45:14 +03:00] Y:\home\upcms.up\www\admin\includes\enter.php - Успешный вход [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 10:55:47 +03:00] Y:\home\upcms.up\www\admin\includes\pages.php - Добавиление страницы [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 10:56:13 +03:00] Y:\home\upcms.up\www\admin\includes\pages.php - Редактирование страницы [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 10:56:26 +03:00] Y:\home\upcms.up\www\admin\includes\pages.php - Удаление страницы [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:16:34 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Добавление пункта меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:16:48 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:16:48 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:16:48 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:16:48 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:16:48 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:17:10 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Редактирование пункта меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:17:15 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Редактирование пункта меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:17:59 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Удаление пункта меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:26:19 +03:00] Y:\home\upcms.up\www\admin\includes\gallery.php - Добавление галереи [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:26:45 +03:00] Y:\home\upcms.up\www\admin\includes\gallery.php - Редактирование галереи [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:39:45 +03:00] Y:\home\upcms.up\www\admin\ajax_files\uploadify.php - Добавление фото в галерее [] - Shockwave Flash
+[100] - 127.0.0.1 - [08/Apr/2014 11:39:46 +03:00] Y:\home\upcms.up\www\admin\ajax_files\uploadify.php - Добавление фото в галерее [] - Shockwave Flash
+[100] - 127.0.0.1 - [08/Apr/2014 11:39:46 +03:00] Y:\home\upcms.up\www\admin\ajax_files\uploadify.php - Добавление фото в галерее [] - Shockwave Flash
+[100] - 127.0.0.1 - [08/Apr/2014 11:39:46 +03:00] Y:\home\upcms.up\www\admin\ajax_files\uploadify.php - Добавление фото в галерее [] - Shockwave Flash
+[100] - 127.0.0.1 - [08/Apr/2014 11:41:11 +03:00] Y:\home\upcms.up\www\admin\ajax_files\uploadify.php - Добавление фото в галерее [] - Shockwave Flash
+[100] - 127.0.0.1 - [08/Apr/2014 11:46:04 +03:00] Y:\home\upcms.up\www\admin\ajax_files\uploadify.php - Добавление фото в галерее] - Shockwave Flash
+[100] - 127.0.0.1 - [08/Apr/2014 11:46:32 +03:00] Y:\home\upcms.up\www\admin\ajax_files\uploadify.php - Добавление фото в галерею - Shockwave Flash
+[100] - 127.0.0.1 - [08/Apr/2014 11:46:54 +03:00] Y:\home\upcms.up\www\admin\includes\gallery.php - Удаление фото в галерее [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:47:03 +03:00] Y:\home\upcms.up\www\admin\includes\gallery.php - Удаление фото в галерее [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:47:13 +03:00] Y:\home\upcms.up\www\admin\includes\gallery.php - Добавление галереи [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [08/Apr/2014 11:47:20 +03:00] Y:\home\upcms.up\www\admin\includes\gallery.php - Удаление галереи [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16

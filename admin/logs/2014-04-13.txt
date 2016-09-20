@@ -1,0 +1,1 @@
+[100] - 127.0.0.1 - [13/Apr/2014 12:00:32 +03:00] Y:\home\upcms.up\www\admin\includes\enter.php - Успешный вход [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16

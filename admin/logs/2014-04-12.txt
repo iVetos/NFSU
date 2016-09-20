@@ -1,0 +1,22 @@
+[100] - 127.0.0.1 - [12/Apr/2014 02:22:09 +03:00] Y:\home\upcms.up\www\admin\includes\enter.php - Успешный вход [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 02:22:54 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 02:22:54 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 02:22:54 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 02:22:54 +03:00] Y:\home\upcms.up\www\admin\includes\menu.php - Сортировка пунктов меню [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 10:28:26 +03:00] Y:\home\upcms.up\www\admin\includes\enter.php - Успешный вход [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 11:04:10 +03:00] Y:\home\upcms.up\www\admin\includes\enter.php - Успешный вход [jQuery] - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+[100] - 127.0.0.1 - [12/Apr/2014 13:33:07 +03:00] Y:\home\upcms.up\www\admin\includes\exit.php - Завершение сеанса [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 14:55:35 +03:00] Y:\home\upcms.up\www\admin\includes\enter.php - Успешный вход [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 15:32:40 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - [id:1] jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 15:38:25 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - [id:1] jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 15:39:26 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - [id:1] jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 15:41:15 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - [id:1] jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 17:27:34 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - (id:2) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 18:26:36 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - (id:3) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 19:50:59 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - (id:4) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 19:52:43 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Добавиление новости - (id:5) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 23:45:04 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Редактирование новости - (id:3) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 23:49:17 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Редактирование новости - (id:3) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 23:50:28 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Редактирование новости - (id:3) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 23:56:21 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Удаление новости - (id:3) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+[100] - 127.0.0.1 - [12/Apr/2014 23:57:32 +03:00] Y:\home\upcms.up\www\admin\includes\news.php - Удаление новости - (id:4) [jQuery] - Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16

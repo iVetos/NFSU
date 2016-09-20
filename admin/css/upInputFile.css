@@ -1,0 +1,53 @@
+.upInputFile-input {
+	position: absolute;
+}
+
+.upInputFile-customFile {
+	position: absolute;
+	width: 286px;
+    margin-left: -140px;
+    cursor: pointer;
+    height: 31px;
+    z-index: 2;
+	font: 13px Verdana;			/*!!!!!!!!!width: 146px;height: 31px; 61!!!!!*/
+	filter: alpha(opacity: 0);
+    opacity: 0;
+}
+
+.upInputFile-fakeButton {
+    position: absolute;
+    z-index: 1;
+    width: 146px; /* 85 * 21 */
+    height: 31px;
+    background: url(../img/design/file_btn.png) no-repeat left top;
+    float: left;
+}
+       
+.upInputFile-blocker {
+    position: absolute;
+    z-index: 3;
+    width: 155px;
+    height: 31px;
+    background: url(../img/design/transparent.gif);
+    margin-left: -155px;
+}
+
+.upInputFile-fileName {
+    position: absolute;
+    height: 15px;
+	line-height: 14px;
+    margin-left: 161px;
+    font-family: "Verdana", "Arial", "Helvetica", sans-serif;
+    font-size: 14px;
+    color: #444;
+    margin-top: 7px;
+    padding-top: 1px;
+    padding-left: 19px;
+	background: url(../img/design/icons.png);
+	display: none;
+}
+
+.upInputFile-activeBrowseButton {
+    background: url(../img/design/file_btn_active.png) no-repeat left top;
+    display: none;
+}

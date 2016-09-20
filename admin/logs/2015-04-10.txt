@@ -1,0 +1,1 @@
+[100] - Успешный вход [Виталий] - 127.0.0.1 - [10/Apr/2015 16:34:18 +03:00] U:\home\upcms.up\www\admin\includes\enter.php - Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
