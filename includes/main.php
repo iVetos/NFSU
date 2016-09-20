@@ -19,5 +19,9 @@ $smarty->assign('news', Db::doArray($sql));
 $sql = "SELECT * FROM `sportsmans` ORDER BY RAND() LIMIT 1";
 $smarty->assign('sportsman', Db::doOne($sql));
 
+// Map
+$sql = "SELECT * FROM `map`";
+$smarty->assign('objects', Db::doArray($sql));
+
 $smarty->display('header.tpl');
 $smarty->display('main.tpl');

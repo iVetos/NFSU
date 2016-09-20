@@ -79,4 +79,48 @@
     </div>
 </div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d640.9815225862424!2d36.3628215!3d50.0127405!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x412709c71e38270b%3A0x690719a548907aa4!2sSvitla+St%2C+15%2C+Kharkiv%2C+Kharkiv+Oblast!5e0!3m2!1sen!2sua!4v1462131401042" height="450" frameborder="0" style="width: 100%; border:0" allowfullscreen></iframe>
+<script>{literal}
+    // Google map
+    function initMap() {
+        var mapDiv = document.getElementById('map');
+        var marker;
+        var infowindow;
+        var map = new google.maps.Map(mapDiv, {
+            zoom: 8,
+            center: new google.maps.LatLng(49.85215166776999, 36.38946533203125)
+        });
+
+        {/literal}{if !empty($objects)}
+        {foreach from=$objects item="object" name="objects"}
+        {literal}
+
+        marker{/literal}{$smarty.foreach.objects.iteration}{literal} = new google.maps.Marker({
+            position: new google.maps.LatLng({/literal}{$object.map}{literal}),
+            map: map,
+            draggable: false,
+            animation: google.maps.Animation.DROP,
+            title: '{/literal}{$object.name}{literal}',
+            icon: '/admin/img/icons/map.png'
+        });
+
+        marker{/literal}{$smarty.foreach.objects.iteration}{literal}.addListener('click', function() {
+            infowindow = new google.maps.InfoWindow({
+                content: '<div class="map-object">' + $('#object{/literal}{$smarty.foreach.objects.iteration}{literal}').html() + '</div>'
+            });
+            infowindow.open(map, marker{/literal}{$smarty.foreach.objects.iteration}{literal});
+        });
+        {/literal}
+        {/foreach}
+        {/if}{literal}
+
+    }{/literal}
+</script>
+<div id="map"></div>
+{foreach from=$objects item="object" name="objects"}
+    <div id="object{$smarty.foreach.objects.iteration}" class="none">
+        <h1>{$object.name}</h1>
+        <img src="/admin/img/map/{$object.img}" alt="">
+        {$object.text_s}
+        <a href="/branches/{$object.id}">Подробнее</a>
+    </div>
+{/foreach}
